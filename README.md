@@ -6,3 +6,9 @@ solar/renewable energy projects, and programming as I build my way into the powe
 ## Projects
 - Coming soon: Solar-powered phone charger
 - Coming soon: Arduino battery voltage indicator
+
+  ## Interests
+  -Coding
+  -making new friends and learning more
+  -Engineering Vibes all the way
+  
